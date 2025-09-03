@@ -1,3 +1,5 @@
+THE ORIGINAL REPO IS: https://github.com/Spu7Nix/obamify
+
 # obamify
 revolutionary new technology that turns any image into obama
 
